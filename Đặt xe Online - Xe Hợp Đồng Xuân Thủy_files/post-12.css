@@ -1,0 +1,235 @@
+.elementor-12 .elementor-element.elementor-element-9d3fcd5 {
+  text-align: center;
+}
+.elementor-12
+  .elementor-element.elementor-element-9d3fcd5
+  .elementor-heading-title {
+  font-family: "SFU FUTURA", Sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-field-group {
+  padding-right: calc(10px / 2);
+  padding-left: calc(10px / 2);
+  margin-bottom: 10px;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-form-fields-wrapper {
+  margin-left: calc(-10px / 2);
+  margin-right: calc(-10px / 2);
+  margin-bottom: -10px;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-field-group.recaptcha_v3-bottomleft,
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-field-group.recaptcha_v3-bottomright {
+  margin-bottom: 0;
+}
+body.rtl
+  .elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-labels-inline
+  .elementor-field-group
+  > label {
+  padding-left: 0px;
+}
+body:not(.rtl)
+  .elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-labels-inline
+  .elementor-field-group
+  > label {
+  padding-right: 0px;
+}
+body
+  .elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-labels-above
+  .elementor-field-group
+  > label {
+  padding-bottom: 0px;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-field-type-html {
+  padding-bottom: 0px;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-field-group:not(.elementor-field-type-upload)
+  .elementor-field:not(.elementor-select-wrapper) {
+  background-color: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-field-group
+  .elementor-select-wrapper
+  select {
+  background-color: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .e-form__buttons__wrapper__button-next {
+  color: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-button[type="submit"] {
+  color: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-button[type="submit"]
+  svg
+  * {
+  fill: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .e-form__buttons__wrapper__button-previous {
+  color: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .e-form__buttons__wrapper__button-next:hover {
+  color: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-button[type="submit"]:hover {
+  color: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .elementor-button[type="submit"]:hover
+  svg
+  * {
+  fill: #ffffff;
+}
+.elementor-12
+  .elementor-element.elementor-element-27881f6
+  .e-form__buttons__wrapper__button-previous:hover {
+  color: #ffffff;
+}
+.elementor-12 .elementor-element.elementor-element-27881f6 {
+  --e-form-steps-indicators-spacing: 20px;
+  --e-form-steps-indicator-padding: 30px;
+  --e-form-steps-indicator-inactive-secondary-color: #ffffff;
+  --e-form-steps-indicator-active-secondary-color: #ffffff;
+  --e-form-steps-indicator-completed-secondary-color: #ffffff;
+  --e-form-steps-divider-width: 1px;
+  --e-form-steps-divider-gap: 10px;
+}
+.elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-items:not(.elementor-inline-items)
+  .elementor-icon-list-item:not(:last-child) {
+  padding-bottom: calc(20px / 2);
+}
+.elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-items:not(.elementor-inline-items)
+  .elementor-icon-list-item:not(:first-child) {
+  margin-top: calc(20px / 2);
+}
+.elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item {
+  margin-right: calc(20px / 2);
+  margin-left: calc(20px / 2);
+}
+.elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-items.elementor-inline-items {
+  margin-right: calc(-20px / 2);
+  margin-left: calc(-20px / 2);
+}
+body.rtl
+  .elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item:after {
+  left: calc(-20px / 2);
+}
+body:not(.rtl)
+  .elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-items.elementor-inline-items
+  .elementor-icon-list-item:after {
+  right: calc(-20px / 2);
+}
+.elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-icon
+  i {
+  color: var(--e-global-color-primary);
+  transition: color 0.3s;
+}
+.elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-icon
+  svg {
+  fill: var(--e-global-color-primary);
+  transition: fill 0.3s;
+}
+.elementor-12 .elementor-element.elementor-element-ff559cd {
+  --e-icon-list-icon-size: 18px;
+  --icon-vertical-align: flex-start;
+  --icon-vertical-offset: 5px;
+}
+.elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-item
+  > .elementor-icon-list-text,
+.elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-item
+  > a {
+  font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-accent-font-weight);
+}
+.elementor-12
+  .elementor-element.elementor-element-ff559cd
+  .elementor-icon-list-text {
+  color: var(--e-global-color-text);
+  transition: color 0.3s;
+} /* Start Custom Fonts CSS */
+@font-face {
+  font-family: "SFU FUTURA";
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url("http://127.0.0.1:5500/wp-content/uploads/2023/08/SFUFuturaBook.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "SFU FUTURA";
+  font-style: normal;
+  font-weight: bold;
+  font-display: auto;
+  src: url("http://127.0.0.1:5500/wp-content/uploads/2023/08/SFUFuturaBold.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "SFU FUTURA";
+  font-style: normal;
+  font-weight: 500;
+  font-display: auto;
+  src: url("http://127.0.0.1:5500/wp-content/uploads/2023/08/SFUFuturaHeavy.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "SFU FUTURA";
+  font-style: normal;
+  font-weight: 800;
+  font-display: auto;
+  src: url("http://127.0.0.1:5500/wp-content/uploads/2023/08/SFUFuturaExtraBold.ttf")
+    format("truetype");
+}
+/* End Custom Fonts CSS */
